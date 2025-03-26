@@ -1,5 +1,7 @@
 using System;
-
+using USF_Library;
+namespace USF_Library
+{
 class Program
 {
     static void Main()
@@ -32,4 +34,5 @@ class Program
         Console.WriteLine("Books after borrowing:");
         usfLibrary.DisplayBooks();
     }
+}
 }

@@ -1,4 +1,7 @@
 using System;
+using USF_Library;
+namespace USF_Library
+{
 public class Staff : Person
 {
     public string Position { get; set; }
@@ -10,4 +13,5 @@ public class Staff : Person
         Position = position;
         Department = department;
     }
+}
 }

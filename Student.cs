@@ -1,4 +1,7 @@
 using System;
+using USF_Library;
+namespace USF_Library
+{
 public class Student : Person
 {
     public string Major { get; set; }
@@ -10,4 +13,5 @@ public class Student : Person
         Major = major;
         GraduationYear = graduationYear;
     }
+}
 }

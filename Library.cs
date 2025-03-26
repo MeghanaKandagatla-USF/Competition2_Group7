@@ -1,5 +1,8 @@
 using System;
 using System.Collections.Generic;
+using USF_Library;
+namespace USF_Library
+{
 public class Library
 {
     public List<Book> Books { get; set; } = new List<Book>();
@@ -28,4 +31,5 @@ public class Library
         return Books.Find(b => b.Title == title);
     }
 
+}
 }

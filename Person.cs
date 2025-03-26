@@ -1,5 +1,7 @@
 using System;
 
+namespace USF_Library
+{
 public class Person
 {
     public string Name { get; set; }
@@ -17,4 +19,5 @@ public class Person
     {
         return $"Name: {Name}, ID: {ID}";
     }
+}
 }

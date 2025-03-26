@@ -1,5 +1,7 @@
 using System;
-
+using USF_Library;
+namespace USF_Library
+{
 public class Book 
 {
     public string Title { get; set; }
@@ -31,4 +33,5 @@ public class Book
     {
         return $"Title: {Title}, Author: {Author}, ISBN: {ISBN}, Available Copies: {AvailableCopies}";
     }
+}
 }
