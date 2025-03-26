@@ -1,0 +1,15 @@
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\obj\Debug\net8.0\USF_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\obj\Debug\net8.0\USF_Library.AssemblyInfoInputs.cache
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\obj\Debug\net8.0\USF_Library.AssemblyInfo.cs
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\obj\Debug\net8.0\USF_Library.csproj.CoreCompileInputs.cache
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\obj\Debug\net8.0\USF_Library.sourcelink.json
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\bin\Debug\net8.0\USF_Library.exe
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\bin\Debug\net8.0\USF_Library.deps.json
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\bin\Debug\net8.0\USF_Library.runtimeconfig.json
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\bin\Debug\net8.0\USF_Library.dll
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\bin\Debug\net8.0\USF_Library.pdb
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\obj\Debug\net8.0\USF_Library.dll
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\obj\Debug\net8.0\refint\USF_Library.dll
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\obj\Debug\net8.0\USF_Library.pdb
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\obj\Debug\net8.0\USF_Library.genruntimeconfig.cache
+C:\Users\mravi\Source\Repos\Competition2_Group7\USF_Library\obj\Debug\net8.0\ref\USF_Library.dll
