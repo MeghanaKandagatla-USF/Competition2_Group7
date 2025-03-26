@@ -1,4 +1,4 @@
-using System;
+﻿using System;
 namespace USF_Library
 {
     class Program
@@ -24,9 +24,9 @@ namespace USF_Library
             usfLibrary.DisplayPatrons();
 
             Console.WriteLine("Borrowing Books...");
-            if (usfLibrary.FindBookByTitle("Business Insights with AI").BorrowBook())
+            if (usfLibrary.FindBookByTitle("Business Insights with AI").BorrowBooks())
                 Console.WriteLine("Sandeep borrowed 'Business Insights with AI'");
-            if (usfLibrary.FindBookByTitle("Analytics in Action").BorrowBook())
+            if (usfLibrary.FindBookByTitle("Analytics in Action").BorrowBooks())
                 Console.WriteLine("Akhil borrowed 'Analytics in Action'");
 
             Console.WriteLine();
